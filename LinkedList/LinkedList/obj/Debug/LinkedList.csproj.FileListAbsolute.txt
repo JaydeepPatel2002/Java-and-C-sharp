@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\VisualStudioProjects\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\VisualStudioProjects\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\VisualStudioProjects\LinkedList\LinkedList\bin\Debug\DataStructureCommon.dll
+C:\VisualStudioProjects\LinkedList\LinkedList\bin\Debug\DataStructureCommon.pdb
+C:\VisualStudioProjects\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudioProjects\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CopyComplete
+C:\VisualStudioProjects\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\VisualStudioProjects\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

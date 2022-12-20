@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{8958C814-3AD8-43B0-BB4A-2EDCEC0D55D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructureCommon", "DataStructureCommon\DataStructureCommon.csproj", "{8C9CACFB-AB05-43D1-94A5-392A0E1C6161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8958C814-3AD8-43B0-BB4A-2EDCEC0D55D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8958C814-3AD8-43B0-BB4A-2EDCEC0D55D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8958C814-3AD8-43B0-BB4A-2EDCEC0D55D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8958C814-3AD8-43B0-BB4A-2EDCEC0D55D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9CACFB-AB05-43D1-94A5-392A0E1C6161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9CACFB-AB05-43D1-94A5-392A0E1C6161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9CACFB-AB05-43D1-94A5-392A0E1C6161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9CACFB-AB05-43D1-94A5-392A0E1C6161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A382070A-4A5A-4F47-B347-4B3511F80BB4}
+	EndGlobalSection
+EndGlobal
